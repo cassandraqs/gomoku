@@ -1,0 +1,15 @@
+.stone-white { 
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  box-shadow: 1px 3px 5px grey;
+  background: -webkit-radial-gradient(circle,white, #BDBDBD);
+}
+.stone-black {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  box-shadow: 1px 3px 5px grey;
+  background: -webkit-radial-gradient(circle, #777c80, #010508);
+  
+}
